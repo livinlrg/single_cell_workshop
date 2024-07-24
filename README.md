@@ -23,3 +23,5 @@ Inside of the downloaded repo, you will find:
   - Some code to run gene set enrichments
 - Cel_tissue_markers.xlsx
   - A list of markers for some terminal cell types in the animal
+- workshop_gene_data.csv
+  - Contains functional annotations of the genes in the dataset
