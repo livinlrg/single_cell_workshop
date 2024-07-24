@@ -10,7 +10,7 @@ First you need to make sure that you have git installed:
 
 Then you will 'clone' this repository in a logical place on your computer with:
 ```
-git clone git@github.com:livinlrg/single_cell_workshop.git
+git clone https://github.com/livinlrg/single_cell_workshop.git
 ```
 
 Inside of the downloaded repo, you will find:
